@@ -1,6 +1,6 @@
 {
-  "name": "@steipete/claude-code-mcp",
-  "version": "1.10.12",
+  "name": "@botanicastudios/claude-code-mcp",
+  "version": "1.10.13",
   "description": "Simple MCP server for Claude Code one-shot execution",
   "author": "Peter Steinberger",
   "license": "MIT",
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/steipete/claude-code-mcp.git"
+    "url": "git+https://github.com/botanicastudios/claude-code-mcp.git"
   },
   "keywords": [
     "mcp",
@@ -45,7 +45,7 @@
     "tools"
   ],
   "bugs": {
-    "url": "https://github.com/steipete/claude-code-mcp/issues"
+    "url": "https://github.com/botanicastudios/claude-code-mcp/issues"
   },
-  "homepage": "https://github.com/steipete/claude-code-mcp#readme"
+  "homepage": "https://github.com/botanicastudios/claude-code-mcp#readme"
 }
